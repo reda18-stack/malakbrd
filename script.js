@@ -27,7 +27,7 @@ document.getElementById("generateCard").addEventListener("click", function () {
       icon: "❤️"
     },
     friendship: {
-      message: `🤗 Hey ${name}! ahsan hafsa wdima hafsa w solo hafsa`,
+      message: `🤗 Hey ${name}! ahsan malak wdima malak w solo malak`,
       icon: "🤗"
     }
   };
